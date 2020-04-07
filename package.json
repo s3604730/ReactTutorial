@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/s3604730/ReactTutorial/issues"
   },
-  "homepage": "https://github.com/s3604730/ReactTutorial#readme"
+  "homepage": "https://github.com/s3604730/ReactTutorial#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "reactapp": "^1.0.0"
+  }
 }
